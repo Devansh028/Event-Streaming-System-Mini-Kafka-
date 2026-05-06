@@ -1,0 +1,8 @@
+{
+  "name": "event-streaming-system",
+  "private": true,
+  "description": "Root tooling for cli.js (publish helper)",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
